@@ -1,10 +1,10 @@
-## Welcome to GitHub Pages
+## Welcome to Dziq Digital
 
-You can use the [editor on GitHub](https://github.com/DziqDigital/dziqigitWeb/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+We Deliver Only High Quality Games
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+
+### Games
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
