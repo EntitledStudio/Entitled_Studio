@@ -1,10 +1,10 @@
-## Welcome to Dziq Digital
+# Welcome to Dziq Digital
 
 We Deliver Only High Quality Games
 
 
 
-### Games
+# Games
 
 ## Just Cube
 Discontinued
