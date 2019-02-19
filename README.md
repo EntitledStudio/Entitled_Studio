@@ -6,15 +6,15 @@ We Deliver Only High Quality Games
 
 # Games
 
-## Just Cube
+## [Just Cube](https://www.gamejolt.com)
 Discontinued
 
-## City Dev
+## [City Dev](https://www.gamejolt.com)
 Early In-Dev
 
-## Blitzdiers
+## [Blitzdiers](https://www.gamejolt.com)
 Development Suspended (for now)
 
 # Our Squad
 ### Dziq - Main Senior Developer
-Thats it if you want join us at....
+Thats it if you want join us [Here](https://www.gamejolt.com)
