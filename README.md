@@ -9,7 +9,7 @@ We Deliver Only High Quality Games
 ## [Just Cube](https://www.gamejolt.com)
 Discontinued
 
-## [City Dev](https://www.gamejolt.com)
+## [City Dev](https://gamejolt.com/games/CityDev/395300)
 Early In-Dev
 
 ## [Blitzdiers](https://www.gamejolt.com)
