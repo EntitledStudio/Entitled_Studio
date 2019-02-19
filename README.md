@@ -6,13 +6,13 @@ We Deliver Only High Quality Games
 
 ### Games
 
-##Just Cube
+## Just Cube
 Discontinued
 
-##City Dev
+## City Dev
 Early In-Dev
 
-##Blitzdiers
+## Blitzdiers
 Development Suspended (for now)
 
 
@@ -24,10 +24,10 @@ Development Suspended (for now)
 
 
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+
+
+
 
 [Link](url) and ![Image](src)
 ```
