@@ -15,8 +15,11 @@ Early In-Dev
 ## [Blitzdiers](https://www.gamejolt.com)
 Development Suspended (dev starts at 1 april)
 
-
+## [Make a Toast](https://www.gamejolt.com)
+In-Dev
 
 # Our Squad
-### Dziq - Main Senior Developer
-Thats it if you want join us [Here](https://goo.gl/forms/DxD1G1u6JbGlQxgZ2)
+### Dziq - Senior Developer
+### Shelter - Senior Designer
+Thats it if you want join us [Here](https://goo.gl/forms/P3yHsIqHbGTtamv42)
+
