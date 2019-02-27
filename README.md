@@ -1,8 +1,8 @@
-# Welcome to Dziq Digital
+# Welcome to Entitled Studio
 
 We Deliver Only High Quality Games
 
-
+Our Gamejolt
 
 # Games
 
@@ -13,8 +13,10 @@ Discontinued
 Early In-Dev
 
 ## [Blitzdiers](https://www.gamejolt.com)
-Development Suspended (for now)
+Development Suspended (dev starts at 1 april)
+
+
 
 # Our Squad
 ### Dziq - Main Senior Developer
-Thats it if you want join us [Here](https://www.gamejolt.com)
+Thats it if you want join us [Here](https://goo.gl/forms/DxD1G1u6JbGlQxgZ2)
